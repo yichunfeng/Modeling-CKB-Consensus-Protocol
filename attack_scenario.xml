@@ -30,7 +30,6 @@ chan collectP;
 chan collectC;
 chan initializing;
 
-
 int public=0;
 int private=0;
 int delta;
