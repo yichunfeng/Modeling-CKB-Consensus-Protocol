@@ -7,14 +7,13 @@
 There are two layers in the CKB blockchain. The first layer provides the decentralized infrastructure and it is responsible for settling assets. The second layer is where the transactions generate. [CKB consensus protocol](https://github.com/nervosnetwork/rfcs/tree/master/rfcs) is design for running the first layer without a third-party supervision.
 
 ## Requirements
-JAVA SE 13.0.2
-
-UPPAAL 4.1.24
+* JAVA SE 13.0.2
+* UPPAAL 4.1.24
 
 ## Features
-Providing the transaction verification state flow of the CKB consensus protocol.
-Verifying the properties of the transaction verification and the block propagation.
-Proving CKB’s ability to resist selfish mining attacks.
+* Providing the transaction verification state flow of the CKB consensus protocol.
+* Verifying the properties of the transaction verification and the block propagation.
+* Proving CKB’s ability to resist selfish mining attacks.
 
 ## Variable Declarations
 The two-step confirmation is divided into small operations. All the variables mark the outcome of these operations. The variables initially default to zero, and the templates would give the assignments to these variables after each operation. Value 1 and 2 in the assignments denote that an operation succeeds and fails respectively. The variables would be regarded as the guard parameters of the transitions for the next operation.
