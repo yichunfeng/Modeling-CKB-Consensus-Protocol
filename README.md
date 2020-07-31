@@ -1,4 +1,4 @@
-# Modeling-and-Verification-of-CKB-Consensus-Protocol-against-Selfish-Mining-Attacks
+# Modeling and Verification of CKB Consensus Protocol against Selfish Mining Attacks
 
 [Nervos Network](https://www.nervos.org) is a two-layer blockchain with Common Knowledge Base (CKB) consensus protocol. The two-step confirmation in the protocol is designed to resist the selfish mining attacks and solve the low throughput problem of traditional blockchains. We provided a formal verification of the two-step confirmation by model checking. In addition, we would like to emphasize the security against the selfish mining attacks. To demonstrate all the verification status and trigger conditions, we used UPPAAL to construct a visualized framework, and all the properties are verified formally with the model checker. //This paper offered a framework for modeling the consensus protocol. With the graphical state flow, UPPAAL can show a clear transition process.
 
