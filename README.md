@@ -8,6 +8,7 @@ There are two layers in the CKB blockchain. The first layer provides the decentr
 
 ## Requirements
 JAVA SE 13.0.2
+
 UPPAAL 4.1.24
 
 ## Features
