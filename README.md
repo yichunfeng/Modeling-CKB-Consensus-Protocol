@@ -29,3 +29,11 @@ In the simulator view you can observe the control flow of the transaction verifi
 
 ## Verifier
 The ability to resist selfish mining attacks and the properties of CKB consensus protocol are listed in CTL formula. You can click the “check” button to see the results of verification.
+
+## Author
+Yi-Chun, Feng
+Contact me at: yichunfeng@pku.edu.cn
+
+## License
+**This is not an open source, all rights are reserved.**
+**Any reproduction or distribution is prohibited. Please do not any create derivative works.**
