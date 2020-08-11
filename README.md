@@ -32,6 +32,7 @@ The ability to resist selfish mining attacks and the properties of CKB consensus
 
 ## Author
 Yi-Chun, Feng
+
 Contact me at: yichunfeng@pku.edu.cn
 
 ## License
