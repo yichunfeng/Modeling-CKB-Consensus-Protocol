@@ -38,4 +38,4 @@ Contact me at: yichunfeng@pku.edu.cn
 ## License
 **This is not an open source, all rights are reserved.**
 
-**Any reproduction or distribution is prohibited. Please do not any create derivative works.**
+**Any reproduction or distribution is prohibited. Please do not create any derivative works.**
